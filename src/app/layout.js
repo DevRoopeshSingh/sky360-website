@@ -1,7 +1,7 @@
 "use client";
 
 import { ChakraProvider } from "@chakra-ui/react";
-import { Global } from "@emotion/react"; // Import Global
+import { Global } from "@emotion/react"; 
 import theme from "../theme/theme";
 
 export default function RootLayout({ children }) {
